@@ -1,0 +1,6 @@
+{
+  "name": "Telecom B2B Backoffice - Consulta de Pedidos & Cotações",
+  "description": "Sistema corporativo de consulta, visualização e agrupamento de pedidos e cotações de telecomunicações B2B baseado em planilhas com fidelidade estrita de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
